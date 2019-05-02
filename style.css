@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-family: "Roboto", sans-serif;
+    color: #000000;
+    font-size: 16px;
+}
+body{
+    display: block;
+    margin: 0px;
+}
+section{
+    margin: 0px;
+    display: block;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+h1{
+    color: #ffffff;
+    width: 10rem;
+    font-size: 30px;     
+}
+
+h3{
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    font-size: 16px;
+    font-weight: normal;
+}
+.navigation{
+    padding: 0px;
+    margin: auto;
+    width: 50%;
+}
+.banner {
+    background-image: url("img/banner.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 12rem; 
+}
+h2{
+    text-align: center; 
+    font-weight: 900;
+}
+
+.mission{
+    background-color: #ffe964;
+    text-align: center;
+    
+}
+.about{
+    background-color: #ffffff;
+    text-align: left;
+}
+.left{
+    text-align: left;
+}
+.team{
+    background-color: #ff523d;
+}
+.contact{
+    background-color: #223c88;
+    color: #ffffff;
+    text-align: left;
+}
+div{
+    width: 50%;
+    margin: auto;
+}
+.team p{
+    text-align: center;
+    margin: 2rem;
+}
+img{
+    width: 50%;
+   height: auto;
+}
+
